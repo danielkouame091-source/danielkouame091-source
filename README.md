@@ -2,6 +2,12 @@
 ### Senior Data & AI FinTech Architect | Risk, Audit & Financial Systems Specialist
 *MBA in Data Science & Artificial Intelligence (Chandigarh University) | B.Sc. in Finance & Accounting | DTS in Audit & Management Control*
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ---
 
 ### 🎯 EXECUTIVE SUMMARY
@@ -66,4 +72,15 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 📈 GITHUB ACTIVITY & METRICS
+### 📈 GITHUB METRICS & ANALYTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielkouame091-source&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkouame091-source&layout=compact&theme=radical)
+
+---
+
+### 📫 PROFESSIONAL DIRECTORY
+
+* 💼 **LinkedIn:** [Kouassi Kouame Daniel](https://linkedin.com)
+* ✉️ **Email:** `ton.email@domaine.com`
+* 📍 **Location:** Chandigarh, India | Mobile Globally (USA, France, Ivory Coast, Australia, Asia)
