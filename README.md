@@ -7,6 +7,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -62,13 +63,12 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 🌐 GLOBAL VALUE PROPOSITION & TARGET MARKETS
+### 🌍 GLOBAL VALUE PROPOSITION & INTERNATIONAL MARKETS
 
-* 🇺🇸 **United States & Global Markets:** High-throughput Data Analytics, AI risk modeling, quantitative finance, and SOX-compliant audit automation.
-* 🇫🇷 **France & Europe:** Full compliance with European banking standards (IFRS 9 Expected Credit Loss, Basel III, GDPR, European financial audit frameworks).
-* 🇨🇮 **Côte d'Ivoire & West Africa (UEMOA / CEMAC):** Mastery of BCEAO regulations, CENTIF reporting (ISO 20022), Mobile Money analytics, and regional financial risk management.
-* 🇦🇺 **Australia & APAC:** Enterprise-grade code architecture, financial control dashboards, and advanced data-driven decision systems.
-* 🇨🇳 **China:** Automated data pipelines, scalable predictive modeling, and AI-driven financial technology solutions.
+* 🌍 **Africa (UEMOA / CEMAC / Pan-African Markets):** Mastery of BCEAO & BEAC regulations, CENTIF compliance (ISO 20022), Mobile Money analytics, and regional financial risk control.
+* 🇪🇺 **Europe & UK:** Full compliance with European banking standards (IFRS 9 Expected Credit Loss, Basel III, GDPR, MiFID II, European audit frameworks).
+* 🌎 **Americas (USA, Canada, LATAM):** High-throughput data analytics, AI risk modeling, quantitative finance, and SOX-compliant audit automation.
+* 🌏 **Asia-Pacific & Middle East (APAC / Gulf States):** Scalable predictive architecture, enterprise financial dashboards, automated data pipelines, and AI-driven tech solutions.
 
 ---
 
@@ -79,8 +79,10 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 📫 PROFESSIONAL DIRECTORY
+### 📫 PROFESSIONAL DIRECTORY & DIRECT CONTACT
 
+* 📁 **Source Repository:** [Executive Profile Architecture](https://github.com/danielkouame091-source/danielkouame091-source)
 * 💼 **LinkedIn:** [Kouassi Kouame Daniel](https://linkedin.com)
-* ✉️ **Email:** `ton.email@domaine.com`
-* 📍 **Location:** Chandigarh, India | Mobile Globally (USA, France, Ivory Coast, Australia, Asia)
+* ✉️ **Email:** `danielkouame091@gmail.com`
+* 📱 **WhatsApp / Phone:** [+91 8288809641](https://wa.me/918288809641)
+* 📍 **Location:** Chandigarh, India | Mobile Globally (Africa, Europe, Americas, Asia, APAC)
