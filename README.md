@@ -46,56 +46,60 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 🚀 FEATURED PROJECTS & SYSTEM DEMONSTRATIONS
+### 🚀 PROJETS & DÉMONSTRATIONS VISUELLES
 
-#### 🛡️ 1. National & Pan-African Financial Security & Credit Scoring System
-> **Domain:** FinTech, RegTech, Anti-Money Laundering (AML/CFT), Credit Risk, UEMOA Zone.
-
-<!-- APERÇU DE L'IMAGE EN GRAND SANS LIEN DÉCLENCHEUR DE CLIC -->
-<p align="center">
-  <img src="images/app_scoring.png" alt="Aperçu Pan-African Financial Security Platform" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-</p>
-
-* **Architecture:** Unified platform interconnecting commercial banks (SGBCI, Ecobank, UBA) and Mobile Money operators (Wave, Orange, MTN, M-Pesa). Features multi-network transfer graph tracing for real-time mule account chain isolation under 30 seconds.
-* **Compliance:** Native integration of ISO 20022, CENTIF/GAFI, PAPSS settlement, and Basel III / IFRS 9 prudential rules.
-* **Tech Stack:** Python, Streamlit, Network/Graph Analytics, Financial Risk Engine.
-* 🔗 **Application Interactive en Direct :** [Accéder au Tableau de Bord FinTech](https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/)
-* 📁 **Code Source GitHub :** [danielkouame091-source/fintech-credit-scoring](https://github.com/danielkouame091-source/fintech-credit-scoring)
-
----
-
-#### 📩 2. Real-Time SMS Spam & Phishing Detection Engine
-> **Domain:** Natural Language Processing (NLP), Cyber Security, Financial Fraud Prevention.
-
-<!-- APERÇU DE L'IMAGE EN GRAND SANS LIEN DÉCLENCHEUR DE CLIC -->
-<p align="center">
-  <img src="images/app_spam.png" alt="Aperçu SMS Spam Detection Engine" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
-</p>
-
-* **Architecture:** Machine Learning application utilizing Support Vector Machines (SVM) and TF-IDF Vectorization to detect fraudulent SMS and phishing attempts in real time.
-* **Impact:** Delivers instant binary classification (*Spam* vs. *Ham*) to secure mobile transaction ecosystems.
-* **Tech Stack:** Python, Scikit-Learn, Streamlit, Joblib, TF-IDF.
-* 🔗 **Application Interactive en Direct :** [Accéder à l'Application NLP](https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/)
-* 📁 **Code Source GitHub :** [mtechbro94/SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
-
----
-
-#### 📦 3. Chine-Ivoire Express — Import-Export & Logistics Platform
-> **Domain:** E-Commerce, Logistics, Financial Margin & Freight Pricing.
-
-* **Architecture:** Full-stack Flask web application displaying transparent cost structures (Factory Cost + Customs & Freight + Profit Margin) with direct local delivery integration.
-* **Impact:** Streamlines cross-border trade flows between China and Côte d'Ivoire.
-* **Tech Stack:** Python, Flask, HTML5, Tailwind CSS, WhatsApp Business API.
-* 📁 **Code Source GitHub :** [mtechbro94/chine-ivoire-import](https://github.com/mtechbro94/chine-ivoire-import)
-
----
-
-#### 📊 4. Macroeconomic & GDP Financial Analytics Platform
-> **Domain:** Econometrics, Management Control, Macroeconomic Modeling.
-
-* **Architecture:** Interactive analytics platform executing multi-country GDP decomposition, trend forecasting, and shock simulations.
-* **Tech Stack:** Python, Streamlit, Pandas, Plotly.
-* 📁 **Code Source GitHub :** [danielkouame091-source/gdp-dashboard](https://github.com/danielkouame091-source/gdp-dashboard)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ 1. FinTech Credit Scoring & AML</h3>
+      <a href="https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/">
+        <img src="images/fintech.png" width="100%" alt="FinTech Credit Scoring App" style="border-radius:8px; border:1px solid #ccc;"/>
+      </a>
+      <p><b>Plateforme de Sécurité Financière & Scoring Risque</b></p>
+      <p>• Tracé des comptes mulets en < 30s<br/>• Conforme ISO 20022 & IFRS 9 / Bâle III</p>
+      <p>
+        👉 <a href="https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/"><b>[Voir l'Application en Direct]</b></a><br/>
+        📁 <a href="https://github.com/danielkouame091-source/fintech-credit-scoring"><b>[Code Source GitHub]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📩 2. Real-Time SMS Spam Detection</h3>
+      <a href="https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/">
+        <img src="images/spam.png" width="100%" alt="SMS Spam Detection App" style="border-radius:8px; border:1px solid #ccc;"/>
+      </a>
+      <p><b>Moteur IA Anti-Phishing & Anti-Fraude SMS</b></p>
+      <p>• Classification NLP en temps réel (SVM)<br/>• Protection des transactions Mobile Money</p>
+      <p>
+        👉 <a href="https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/"><b>[Voir l'Application en Direct]</b></a><br/>
+        📁 <a href="https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM"><b>[Code Source GitHub]</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 3. Chine-Ivoire Express</h3>
+      <a href="https://github.com/mtechbro94/chine-ivoire-import">
+        <img src="images/import.png" width="100%" alt="Chine-Ivoire Express" style="border-radius:8px; border:1px solid #ccc;"/>
+      </a>
+      <p><b>Plateforme Import-Export & Logistique</b></p>
+      <p>• Calculateur automatique de marge & fret<br/>• Application Web Flask & Tailwind CSS</p>
+      <p>
+        📁 <a href="https://github.com/mtechbro94/chine-ivoire-import"><b>[Code Source GitHub]</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 4. GDP Macroeconomic Dashboard</h3>
+      <a href="https://github.com/danielkouame091-source/gdp-dashboard">
+        <img src="images/gdp.png" width="100%" alt="GDP Analytics Platform" style="border-radius:8px; border:1px solid #ccc;"/>
+      </a>
+      <p><b>Plateforme d'Analyse Macroéconomique</b></p>
+      <p>• Simulation de chocs & prévisions du PIB<br/>• Visualisations interactives Plotly</p>
+      <p>
+        📁 <a href="https://github.com/danielkouame091-source/gdp-dashboard"><b>[Code Source GitHub]</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
