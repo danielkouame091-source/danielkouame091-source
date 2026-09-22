@@ -1,62 +1,19 @@
-Voici le code Markdown optimisé et enrichi. Il intègre un **diagramme d'architecture visuel ASCII**, un **graphique d'évolution des métriques (ASCII chart)** pour illustrer concrètement vos compétences en Data Analytics, ainsi que **tous vos liens de projets actifs et dépôts GitHub**.
-
-Copiez et collez directement ce bloc dans votre fichier `README.md` sur GitHub :
-
-```markdown
-# 🌍 KOUASSI KOUAME DANIEL
-### **Senior Data & AI FinTech Architect | Risk, Audit & Financial Systems Specialist**
-*MBA in Data Science & Artificial Intelligence (Chandigarh University) | B.Sc. in Finance & Accounting (ITA - Upper Second Class) | DTS in Audit & Management Control | Baccalauréat G2*
-
-
-```
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│                    END-TO-END REGTECH & AI ARCHITECTURE                 │
-└─────────────────────────────────────────────────────────────────────────┘
-[RAW FINANCIAL TRANSACTIONS & MULTI-NETWORK DATA]
-│
-▼
-┌────────────────────────────────────────────────────────┐
-│  DATA PIPELINE & REGTECH ENGINE (Python / SQL)         │
-│  • ISO 20022 Compliance     • AML/CFT Filtering        │
-│  • IFRS 9 / Basel III        • Real-time ETL           │
-└───────────────────────┬────────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────────────────┐
-│  AI & PREDICTIVE GRAPH ANALYTICS (Streamlit / ML)      │
-│  • Mule Account Freezing (< 30s)                       │
-│  • Dynamic Behavioral Credit Scoring                   │
-│  • Real-time SMS Spam & Phishing Classifier (SVM)      │
-└───────────────────────┬────────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────────────────┐
-│  EXECUTIVE DASHBOARD & DECISION SUPPORT 📈             │
-│                                                        │
-│  Score / Risk 100 ┤              ┌─── (Target AUC)     │
-│                80 ┤          ┌───┘                     │
-│                60 ┤      ┌───┘                         │
-│                40 ┤  ┌───┘                             │
-│                 0 └──┴───┴───┴───┴───┴──────► Time     │
-└────────────────────────────────────────────────────────┘
-
-```
+# KOUASSI KOUAME DANIEL
+### Senior Data & AI FinTech Architect | Risk, Audit & Financial Systems Specialist
+*MBA in Data Science & Artificial Intelligence (Chandigarh University) | B.Sc. in Finance & Accounting | DTS in Audit & Management Control*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### 🎯 EXECUTIVE SUMMARY
 
-Quant-driven Data Scientist & Financial Engineer combining an elite academic background spanning **Quantitative Management (Bac G2)**, **Audit & Management Control**, **Corporate Finance**, and **Advanced Machine Learning / AI**. 
-
-Specialized in designing resilient decision-support architectures, prudential credit scoring algorithms, internal control frameworks, and automated anti-fraud ecosystems for tier-1 banking institutions, Mobile Money operators, and global FinTechs.
+Quant-driven Data Scientist & Financial Engineer with an elite end-to-end background spanning **Accounting (Bac G2)**, **Audit & Management Control**, **Corporate Finance**, and **Advanced Machine Learning / AI**. Specialized in designing resilient decision-support architectures, prudential credit scoring algorithms, internal control frameworks, and automated anti-fraud ecosystems for tier-1 banking institutions, Mobile Money operators, and global FinTechs.
 
 Adept at bridging complex financial regulations and auditing standards (**Basel III, IFRS 9, ISO 20022, BCEAO/CENTIF, SOX compliance**) with scalable Python, SQL & AI data pipelines.
 
@@ -65,7 +22,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 ### 🎓 ACADEMIC PROGRESSION & TRIPLE EXPERTISE
 
 * 🎓 **MBA in Data Science & Artificial Intelligence** (Specialized in Financial Analytics) — *Chandigarh University*
-* 🎓 **Bachelor’s Degree (Licence) in Finance & Accounting** (Upper Second Class) — *Institut des Technologies d'Abidjan*
+* 🎓 **Bachelor’s Degree (Licence) in Finance & Accounting** — *Institut des Technologies d'Abidjan*
 * 🎓 **DTS (Diplôme Technicien Supérieur) in Audit & Management Control**
 * 📜 **Baccalauréat G2 (Techniques Quantitatives de Gestion)**
 
@@ -75,59 +32,43 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 | FINANCE, AUDIT & RISK ENGINEERING | DATA SCIENCE, AI & DEV STACK |
 | :--- | :--- |
-| • Financial Audit & Internal Control | • Python (Pandas, NumPy, Scikit-Learn) |
-| • Prudential Credit Risk (ECL / IFRS 9) | • Streamlit Interactive Analytics Dashboards |
-| • Basel III Stress-Testing & RegTech | • Support Vector Machines (SVM) & NLP |
-| • Anti-Money Laundering (AML) & Mule Tracing | • Advanced SQL, Hadoop & Pipeline ETL |
-| • Management Control & Financial Modeling | • Git / GitHub CI/CD & Cloud Deployment |
+| • Financial Audit & Internal Control | • Python (Pandas, NumPy, Sklearn) |
+| • Prudential Credit Risk (ECL) | • Streamlit Analytics Dashboards |
+| • Basel III / IFRS 9 Stress-Test | • Predictive ML & Pattern Mining |
+| • AML / Anti-Fraud & Mule Trace | • Advanced SQL & Pipeline ETL |
+| • Management Control & Accounting | • Git / GitHub CI/CD Automation |
 
 ---
 
-### 🚀 LIVE PRODUCTION PROJECTS & PORTFOLIO REPOSITORIES
+### 🚀 PRODUCTION-READY TECHNICAL REPOSITORIES
 
-#### 🛡️ 1. [National & Pan-African Financial Security & Credit Scoring System](https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/)
-> **Domain:** FinTech, RegTech, Anti-Money Laundering (AML/CFT), Credit Risk, UEMOA Zone.
-* **Architecture:** Unified platform interconnecting commercial banks (SGBCI, Ecobank, UBA) and Mobile Money operators (Wave, Orange, MTN, M-Pesa). Features multi-network transfer graph tracing for real-time mule account chain isolation under 30 seconds.
-* **Compliance:** Native integration of ISO 20022, CENTIF/GAFI, PAPSS settlement, and Basel III / IFRS 9 prudential rules.
-* **Tech Stack:** Python, Streamlit, Network/Graph Analytics, Financial Risk Engine.
-* 🔗 **Live Interactive App:** [fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app](https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/)
-* 📁 **GitHub Repository:** [mtechbro94/fintech-credit-scoring](https://github.com/danielkouame091-source/fintech-credit-scoring)
+#### 🚨 1. [FinTech Anti-Fraud & Cascade Account Freezing System](https://github.com/danielkouame091-source/fintech-credit-scoring)
+> **Domain:** Anti-Money Laundering (AML), Internal Control, BCEAO / CENTIF / Global Compliance.
+* **Architecture:** Algorithmic SMS phishing detector coupled with multi-hop transfer graph tracing for real-time mule ring isolation.
+* **Impact:** Simulates instant hold orders across cross-border protocols (PAPSS) and Mobile Money networks (Wave, Orange, MTN, M-Pesa).
+* **Tech Stack:** Python, Streamlit, Network Graphing, Pattern Matching.
 
----
+#### 💳 2. [Prudential Credit Scoring & Alternative Risk Engine](https://github.com/danielkouame091-source/fintech-credit-scoring)
+> **Domain:** Quantitative Credit Risk, Audit & Control, Financial Inclusion.
+* **Architecture:** Dual-scoring engine integrating standard prudential debt-capacity ratios (33% cap) with non-traditional behavioral scoring (e-wallet transaction density, liquidity retention, geographic stability).
+* **Impact:** Provides instant risk-adjusted credit decisions for both corporate borrowers and unbanked informal sector merchants.
 
-#### 📩 2. [Real-Time SMS Spam & Phishing Detection Engine](https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/)
-> **Domain:** Natural Language Processing (NLP), Cyber Security, Financial Fraud Prevention.
-* **Architecture:** Machine Learning application utilizing Support Vector Machines (SVM) and TF-IDF Vectorization to detect fraudulent SMS and phishing attempts in real time.
-* **Impact:** Delivers instant binary classification (*Spam* vs. *Ham*) to secure mobile transaction ecosystems.
-* **Tech Stack:** Python, Scikit-Learn, Streamlit, Joblib, TF-IDF.
-* 🔗 **Live Interactive App:** [sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app](https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/)
-* 📁 **GitHub Repository:** [mtechbro94/SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
+#### 📊 3. [Macroeconomic & GDP Financial Analytics Platform](https://github.com/danielkouame091-source/gdp-dashboard)
+> **Domain:** Econometrics, Management Control, Data Visualization.
+* **Architecture:** Interactive analytics dashboard performing multi-country GDP decomposition, trend forecasting, and macroeconomic shock simulations.
 
----
-
-#### 📦 3. [Chine-Ivoire Express — Import-Export & Logistics Platform](https://github.com/mtechbro94/chine-ivoire-import)
-> **Domain:** E-Commerce, Logistics, Financial Margin & Freight Pricing.
-* **Architecture:** Full-stack Flask application presenting transparent cost structures (Factory Cost + Customs/Freight + Profit Margin) with direct local delivery integration.
-* **Impact:** Streamlines cross-border trade flow between China and Côte d'Ivoire.
-* **Tech Stack:** Python, Flask, HTML5, Tailwind CSS, WhatsApp Business API.
-* 📁 **GitHub Repository:** [mtechbro94/chine-ivoire-import](https://github.com/mtechbro94/chine-ivoire-import)
-
----
-
-#### 📊 4. [Macroeconomic & GDP Financial Analytics Platform](https://github.com/danielkouame091-source/gdp-dashboard)
-> **Domain:** Econometrics, Management Control, Macroeconomic Modeling.
-* **Architecture:** Interactive analytics platform executing multi-country GDP decomposition, trend forecasting, and shock simulations.
-* **Tech Stack:** Python, Streamlit, Pandas, Plotly.
-* 📁 **GitHub Repository:** [danielkouame091-source/gdp-dashboard](https://github.com/danielkouame091-source/gdp-dashboard)
+#### 🤖 4. [Applied Machine Learning & Audit Risk Models](https://github.com/danielkouame091-source/cours_ml)
+> **Domain:** Predictive Analytics, Model Audit, Anomaly Detection.
+* **Architecture:** Rigorous implementation of supervised and unsupervised ML models tailored for default prediction and fraud detection.
 
 ---
 
 ### 🌍 GLOBAL VALUE PROPOSITION & INTERNATIONAL MARKETS
 
-* 🌍 **Africa (UEMOA / CEMAC / Pan-African Markets):** BCEAO & BEAC regulations, CENTIF compliance (ISO 20022), Mobile Money analytics, and regional risk control.
-* 🇪🇺 **Europe & UK:** European banking standards (IFRS 9 Expected Credit Loss, Basel III, GDPR, MiFID II, European audit frameworks).
-* 🌎 **Americas (USA, Canada, LATAM):** AI risk modeling, quantitative finance, and SOX-compliant audit automation.
-* 🌏 **Asia-Pacific & Middle East (APAC / Gulf States):** Enterprise financial dashboards, automated data pipelines, and AI-driven tech solutions.
+* 🌍 **Africa (UEMOA / CEMAC / Pan-African Markets):** Mastery of BCEAO & BEAC regulations, CENTIF compliance (ISO 20022), Mobile Money analytics, and regional financial risk control.
+* 🇪🇺 **Europe & UK:** Full compliance with European banking standards (IFRS 9 Expected Credit Loss, Basel III, GDPR, MiFID II, European audit frameworks).
+* 🌎 **Americas (USA, Canada, LATAM):** High-throughput data analytics, AI risk modeling, quantitative finance, and SOX-compliant audit automation.
+* 🌏 **Asia-Pacific & Middle East (APAC / Gulf States):** Scalable predictive architecture, enterprise financial dashboards, automated data pipelines, and AI-driven tech solutions.
 
 ---
 
@@ -140,10 +81,8 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ### 📫 PROFESSIONAL DIRECTORY & DIRECT CONTACT
 
-* 📁 **GitHub Portfolio:** [github.com/mtechbro94](https://github.com/mtechbro94) | [github.com/danielkouame091-source](https://github.com/danielkouame091-source)
-* 💼 **LinkedIn Profile:** [Kouassi Kouame Daniel](https://linkedin.com)
+* 📁 **Source Repository:** [Executive Profile Architecture](https://github.com/danielkouame091-source/danielkouame091-source)
+* 💼 **LinkedIn:** [Kouassi Kouame Daniel](https://linkedin.com)
 * ✉️ **Email:** `danielkouame091@gmail.com`
-* 📱 **WhatsApp / Direct Line:** `+225 07 48 49 29 91` / `+91 8288809641`
-* 📍 **Current Location:** Chandigarh, India | **Mobility:** Global (Africa, Europe, Americas, Asia)
-
-```
+* 📱 **WhatsApp / Phone:** [+91 8288809641](https://wa.me/918288809641)
+* 📍 **Location:** Chandigarh, India | Mobile Globally (Africa, Europe, Americas, Asia, APAC) 
