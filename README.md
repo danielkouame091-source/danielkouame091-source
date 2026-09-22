@@ -46,43 +46,37 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 🚀 PRODUCTION-READY TECHNICAL PROJECTS & LIVE DEMOS
+### 🚀 FEATURED PROJECTS & SYSTEM DEMONSTRATIONS
 
 #### 🛡️ 1. National & Pan-African Financial Security & Credit Scoring System
 > **Domain:** FinTech, RegTech, Anti-Money Laundering (AML/CFT), Credit Risk, UEMOA Zone.
 
-<div align="center">
-  <a href="https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/">
-    <img src="images/fintech_app_screenshot.png" alt="Pan-African Financial Security Platform Screenshot" width="95%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
-  </a>
-</div>
-
-<br/>
+<!-- APERÇU DE L'IMAGE EN GRAND SANS LIEN DÉCLENCHEUR DE CLIC -->
+<p align="center">
+  <img src="images/app_scoring.png" alt="Aperçu Pan-African Financial Security Platform" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
+</p>
 
 * **Architecture:** Unified platform interconnecting commercial banks (SGBCI, Ecobank, UBA) and Mobile Money operators (Wave, Orange, MTN, M-Pesa). Features multi-network transfer graph tracing for real-time mule account chain isolation under 30 seconds.
 * **Compliance:** Native integration of ISO 20022, CENTIF/GAFI, PAPSS settlement, and Basel III / IFRS 9 prudential rules.
 * **Tech Stack:** Python, Streamlit, Network/Graph Analytics, Financial Risk Engine.
-* 🔗 **Live Interactive App:** [fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app](https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/)
-* 📁 **GitHub Repository:** [danielkouame091-source/fintech-credit-scoring](https://github.com/danielkouame091-source/fintech-credit-scoring)
+* 🔗 **Application Interactive en Direct :** [Accéder au Tableau de Bord FinTech](https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/)
+* 📁 **Code Source GitHub :** [danielkouame091-source/fintech-credit-scoring](https://github.com/danielkouame091-source/fintech-credit-scoring)
 
 ---
 
 #### 📩 2. Real-Time SMS Spam & Phishing Detection Engine
 > **Domain:** Natural Language Processing (NLP), Cyber Security, Financial Fraud Prevention.
 
-<div align="center">
-  <a href="https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/">
-    <img src="images/sms_spam_screenshot.png" alt="SMS Spam Detection App Screenshot" width="95%" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);"/>
-  </a>
-</div>
-
-<br/>
+<!-- APERÇU DE L'IMAGE EN GRAND SANS LIEN DÉCLENCHEUR DE CLIC -->
+<p align="center">
+  <img src="images/app_spam.png" alt="Aperçu SMS Spam Detection Engine" width="100%" style="border-radius: 8px; border: 1px solid #ddd;"/>
+</p>
 
 * **Architecture:** Machine Learning application utilizing Support Vector Machines (SVM) and TF-IDF Vectorization to detect fraudulent SMS and phishing attempts in real time.
 * **Impact:** Delivers instant binary classification (*Spam* vs. *Ham*) to secure mobile transaction ecosystems.
 * **Tech Stack:** Python, Scikit-Learn, Streamlit, Joblib, TF-IDF.
-* 🔗 **Live Interactive App:** [sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app](https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/)
-* 📁 **GitHub Repository:** [mtechbro94/SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
+* 🔗 **Application Interactive en Direct :** [Accéder à l'Application NLP](https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/)
+* 📁 **Code Source GitHub :** [mtechbro94/SMS-Spam-Detection-using-SVM](https://github.com/mtechbro94/SMS-Spam-Detection-using-SVM)
 
 ---
 
@@ -92,7 +86,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 * **Architecture:** Full-stack Flask web application displaying transparent cost structures (Factory Cost + Customs & Freight + Profit Margin) with direct local delivery integration.
 * **Impact:** Streamlines cross-border trade flows between China and Côte d'Ivoire.
 * **Tech Stack:** Python, Flask, HTML5, Tailwind CSS, WhatsApp Business API.
-* 📁 **GitHub Repository:** [mtechbro94/chine-ivoire-import](https://github.com/mtechbro94/chine-ivoire-import)
+* 📁 **Code Source GitHub :** [mtechbro94/chine-ivoire-import](https://github.com/mtechbro94/chine-ivoire-import)
 
 ---
 
@@ -101,7 +95,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 * **Architecture:** Interactive analytics platform executing multi-country GDP decomposition, trend forecasting, and shock simulations.
 * **Tech Stack:** Python, Streamlit, Pandas, Plotly.
-* 📁 **GitHub Repository:** [danielkouame091-source/gdp-dashboard](https://github.com/danielkouame091-source/gdp-dashboard)
+* 📁 **Code Source GitHub :** [danielkouame091-source/gdp-dashboard](https://github.com/danielkouame091-source/gdp-dashboard)
 
 ---
 
