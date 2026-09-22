@@ -46,14 +46,14 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
 
 ---
 
-### 🚀 PROJETS & DÉMONSTRATIONS VISUELLES
+### 🚀 PROJETS ET DÉMONSTRATIONS VISUELLES
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ 1. FinTech Credit Scoring & AML</h3>
       <a href="https://fintech-credit-scoring-3amx466ovcbreltwgpourf.streamlit.app/">
-        <img src="images/fintech.png" width="100%" alt="FinTech Credit Scoring App" style="border-radius:8px; border:1px solid #ccc;"/>
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80" width="100%" alt="FinTech Credit Scoring App" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme de Sécurité Financière & Scoring Risque</b></p>
       <p>• Tracé des comptes mulets en < 30s<br/>• Conforme ISO 20022 & IFRS 9 / Bâle III</p>
@@ -65,7 +65,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
     <td width="50%" valign="top">
       <h3 align="center">📩 2. Real-Time SMS Spam Detection</h3>
       <a href="https://sms-spam-classifie-fzvst4qjofjbdkj7otl9vq.streamlit.app/">
-        <img src="images/spam.png" width="100%" alt="SMS Spam Detection App" style="border-radius:8px; border:1px solid #ccc;"/>
+        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80" width="100%" alt="SMS Spam Detection App" style="border-radius:8px;"/>
       </a>
       <p><b>Moteur IA Anti-Phishing & Anti-Fraude SMS</b></p>
       <p>• Classification NLP en temps réel (SVM)<br/>• Protection des transactions Mobile Money</p>
@@ -79,7 +79,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
     <td width="50%" valign="top">
       <h3 align="center">📦 3. Chine-Ivoire Express</h3>
       <a href="https://github.com/mtechbro94/chine-ivoire-import">
-        <img src="images/import.png" width="100%" alt="Chine-Ivoire Express" style="border-radius:8px; border:1px solid #ccc;"/>
+        <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80" width="100%" alt="Chine-Ivoire Express" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme Import-Export & Logistique</b></p>
       <p>• Calculateur automatique de marge & fret<br/>• Application Web Flask & Tailwind CSS</p>
@@ -90,7 +90,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
     <td width="50%" valign="top">
       <h3 align="center">📊 4. GDP Macroeconomic Dashboard</h3>
       <a href="https://github.com/danielkouame091-source/gdp-dashboard">
-        <img src="images/gdp.png" width="100%" alt="GDP Analytics Platform" style="border-radius:8px; border:1px solid #ccc;"/>
+        <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=800&q=80" width="100%" alt="GDP Analytics Platform" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme d'Analyse Macroéconomique</b></p>
       <p>• Simulation de chocs & prévisions du PIB<br/>• Visualisations interactives Plotly</p>
