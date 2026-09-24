@@ -84,7 +84,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
       <p><b>Plateforme Import-Export & Logistique</b></p>
       <p>• Calculateur automatique de marge & fret<br/>• Application Web Flask & Tailwind CSS</p>
       <p>
-        📁 <a href="https://github.com/mtechbro94/chine-ivoire-import"><b>[Code Source GitHub]</b></a>
+        📁 <a href=" https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import"><b>[Code Source GitHub]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
