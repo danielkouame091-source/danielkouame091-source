@@ -84,12 +84,12 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
       <p><b>Plateforme Import-Export & Logistique</b></p>
       <p>• Calculateur automatique de marge & fret<br/>• Application Web Flask & Tailwind CSS</p>
       <p>
-        📁 <a href=" https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import"><b>[Code Source GitHub]</b></a>
+        📁 <a href="https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import"><b>[Code Source GitHub]</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📊 4. GDP Macroeconomic Dashboard</h3>
-      <a href="https://github.com/danielkouame091-source/gdp-dashboard">
+      <a href=" https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import">
         <img src="https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=800&q=80" width="100%" alt="GDP Analytics Platform" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme d'Analyse Macroéconomique</b></p>
