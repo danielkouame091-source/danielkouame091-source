@@ -78,7 +78,7 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 3. Chine-Ivoire Express</h3>
-      <a href="https://github.com/mtechbro94/chine-ivoire-import">
+      <a href=" https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import">
         <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80" width="100%" alt="Chine-Ivoire Express" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme Import-Export & Logistique</b></p>
