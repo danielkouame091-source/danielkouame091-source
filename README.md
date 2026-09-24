@@ -15,9 +15,9 @@
 
 ### 🎯 EXECUTIVE SUMMARY
 
-Quant-driven Data Scientist & Financial Engineer combining a strong academic background spanning **Quantitative Management (Bac G2)**, **Audit & Management Control**, **Corporate Finance**, and **Advanced Machine Learning / AI**. 
+Quant-driven Data Scientist & Financial Engineer combining a strong academic background spanning **Quantitative Management (Bac G2)**, **Audit & Management Control**, **Corporate Finance**, and **Advanced Data Science**.
 
-Specialized in designing resilient decision-support architectures, prudential credit scoring algorithms, internal control frameworks, and automated anti-fraud ecosystems for tier-1 banking institutions, Mobile Money operators, and global FinTechs.
+Specialized in designing resilient decision-support architectures, prudential credit scoring algorithms, internal control frameworks, and automated anti-fraud ecosystems for tier-1 banking institutions and fintech environments.
 
 Adept at bridging complex financial regulations and auditing standards (**Basel III, IFRS 9, ISO 20022, BCEAO/CENTIF, SOX compliance**) with scalable Python, SQL & AI data pipelines.
 
@@ -78,12 +78,13 @@ Adept at bridging complex financial regulations and auditing standards (**Basel 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">📦 3. Chine-Ivoire Express</h3>
-      <a href=" https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import">
+      <a href="https://mtechbro94-chine-ivoire-import-dbjigajmdrr2q8rxitwus2.streamlit.app">
         <img src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80" width="100%" alt="Chine-Ivoire Express" style="border-radius:8px;"/>
       </a>
       <p><b>Plateforme Import-Export & Logistique</b></p>
       <p>• Calculateur automatique de marge & fret<br/>• Application Web Flask & Tailwind CSS</p>
       <p>
+        👉 <a href="https://mtechbro94-chine-ivoire-import-dbjigajmdrr2q8rxitwus2.streamlit.app"><b>[Voir l'Application en Direct]</b></a><br/>
         📁 <a href="https://github.com/danielkouame091-source/mtechbro94-chine-ivoire-import"><b>[Code Source GitHub]</b></a>
       </p>
     </td>
